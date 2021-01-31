@@ -5,6 +5,8 @@ enter the year when prompted
 
 note: this program only runs once (no while loop) so if you want
 to test multiple years you will have to run it multiple times.
+In the event of an error (ValueError) the program will raise
+an exception and then quit (this is intentional)
 
 
 """
