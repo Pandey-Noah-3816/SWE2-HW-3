@@ -1,5 +1,5 @@
 """
-To run this program run python2.7 noah_pandey_hw1.py
+To run this program run python2.7 leapyear_no_check.py
 
 enter the year when prompted
 
